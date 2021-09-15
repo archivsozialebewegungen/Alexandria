@@ -1,0 +1,15 @@
+[submodule "AlexandriaBase"]
+	path = AlexandriaBase
+	url = https://github.com/archivsozialebewegungen/AlexandriaBase
+[submodule "AlexandriaGui"]
+	path = AlexandriaGui
+	url = https://github.com/archivsozialebewegungen/AlexandriaGui
+[submodule "AlexandriaPlugins"]
+	path = AlexandriaPlugins
+	url = https://github.com/archivsozialebewegungen/AlexandriaPlugins
+[submodule "AlexandriaCD"]
+	path = AlexandriaCD
+	url = https://github.com/archivsozialebewegungen/AlexandriaCD
+[submodule "AlexandriaWeb"]
+	path = AlexandriaWeb
+	url = https://github.com/archivsozialebewegungen/AlexandriaWeb

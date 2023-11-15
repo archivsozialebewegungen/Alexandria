@@ -11,6 +11,6 @@ while [ -h "$SOURCE" ]; do # resolve $SOURCE until the file is no longer a symli
 done
 DIR="$( cd -P "$( dirname "$SOURCE" )" >/dev/null 2>&1 && pwd )"
 
-source $DIR/../venv12/bin/activate
+source $DIR/../venv3.11/bin/activate
 export PYTHONPATH=$DIR/../AlexandriaBase:$DIR/../AlexandriaGui:$DIR/../AlexandriaPlugins:$PYTHONPATH
 python3 $DIR/../AlexandriaGui/tkgui/main.py

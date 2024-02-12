@@ -1,6 +1,3 @@
-[submodule "AlexandriaBase"]
-	path = AlexandriaBase
-	url = https://github.com/archivsozialebewegungen/AlexandriaBase
 [submodule "AlexandriaGui"]
 	path = AlexandriaGui
 	url = https://github.com/archivsozialebewegungen/AlexandriaGui

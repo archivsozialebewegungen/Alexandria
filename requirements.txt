@@ -1,8 +1,8 @@
-atomicwrites==1.4.0
-attrs==21.4.0
+atomicwrites==1.4.1
+attrs==23.2.0
 coverage==4.5.4
 ddt==1.4.4
-greenlet==1.1.2
+greenlet==3.0.3
 importlib-metadata==4.11.3
 injector==0.19.0
 Markdown==3.3.6
@@ -16,6 +16,6 @@ pytest==3.10.1
 reportlab==3.6.9
 roman==4.0
 six==1.16.0
-SQLAlchemy==1.4.34
+SQLAlchemy==1.4.51
 typing==3.7.4.3
 zipp==3.8.0

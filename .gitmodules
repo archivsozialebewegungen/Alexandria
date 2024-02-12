@@ -10,3 +10,6 @@
 [submodule "AlexandriaWeb"]
 	path = AlexandriaWeb
 	url = https://github.com/archivsozialebewegungen/AlexandriaWeb
+[submodule "AlexandriaBase"]
+	path = AlexandriaBase
+	url = https://github.com/archivsozialebewegungen/AlexandriaBase.git

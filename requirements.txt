@@ -1,7 +1,11 @@
+asgiref==3.7.2
 atomicwrites==1.4.1
 attrs==23.2.0
 coverage==4.5.4
+crispy-bootstrap3==2024.1
 ddt==1.4.4
+Django==5.0.2
+django-crispy-forms==2.1
 greenlet==3.0.3
 importlib-metadata==4.11.3
 injector==0.19.0
@@ -13,9 +17,10 @@ psycopg2==2.9.3
 py==1.11.0
 PyPDF2==1.26.0
 pytest==3.10.1
+pytz==2024.1
 reportlab==3.6.9
 roman==4.0
 six==1.16.0
 SQLAlchemy==1.4.51
-typing==3.7.4.3
+sqlparse==0.4.4
 zipp==3.8.0
